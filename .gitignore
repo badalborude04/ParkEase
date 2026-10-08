@@ -1,0 +1,18 @@
+# Java
+*.class
+target/
+bin/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
