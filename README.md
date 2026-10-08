@@ -16,9 +16,11 @@
 
 ## 🎥 Project Demo
 
-The complete **ParkEase CUI workflow** is demonstrated on LinkedIn, including vehicle entry, slot allocation, ticketing, payment, exit processing, reports and other core operations.
+Check out the project demo on LinkedIn:
 
-> 🔗 **LinkedIn Demo:** Add your LinkedIn post URL here
+👉 [Watch ParkEase Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7513894869329829892/)
+
+💻 [View Source Code on GitHub](https://github.com/badalborude04/ParkEase)
 
 ---
 
